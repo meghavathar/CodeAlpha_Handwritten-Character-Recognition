@@ -1,0 +1,6 @@
+tensorflow==2.22.0
+tensorflow-datasets
+numpy
+pillow
+streamlit
+importlib-resources
