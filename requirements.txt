@@ -1,4 +1,4 @@
-tensorflow==2.22.0
+tensorflow
 tensorflow-datasets
 numpy
 pillow
